@@ -1,10 +1,11 @@
----
+--@soer2
+''''
+
 title: meta tags & the semantic web
 permalink: meta-tags-and-the-semantic-web
 date: 2022-01-11T22:53:30-08:00
 tags: web
 ---
-
 For better or worse these days a lot of the web is consumed via an aggregator
 platform. Search engines like Google, or Duck Duck Go, and social media like
 Facebook, Twitter, Reddit, and Mastodon. When links are displayed on these
